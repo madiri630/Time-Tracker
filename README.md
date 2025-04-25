@@ -38,7 +38,7 @@ No setup required – just launch and start tracking time!
 ## 🌐 Demo
 
 
-🔗 **Live Demo:** [View Here](https://madiri630.github.io/coding-tracker/)  
+🔗 **Live Demo:** [View Here](https://madiri630.github.io/Time-Tracker/)  
 
 ## 🙏 Acknowledgements
 
